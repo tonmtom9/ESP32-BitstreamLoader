@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.ino": "c",
+        "sdmmc_host.h": "c",
+        "cstdlib": "c",
+        "cstddef": "c"
+    }
+}
