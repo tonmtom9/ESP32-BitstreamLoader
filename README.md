@@ -3,3 +3,6 @@ Heavily modified version of Pillar1989's [spartan-edge-esp32-boot](https://githu
 
 Managed by [PlatformIO](https://platformio.org/)
 
+# Usage
+Once uploaded the ESP32 will try to read bitstream file (default.bit) from SD card and will program FPGA using defined pins
+
